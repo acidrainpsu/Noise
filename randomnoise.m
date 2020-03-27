@@ -1,6 +1,6 @@
 function  out=randomnoise(f,ND)
-%add fix impulse noise for colour image
-%f is input image
+%add random value impulse noise for colour image
+%f is input colour image
 %ND is Noise density
 
     f=double(f);
